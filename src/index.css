@@ -1,5 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
-  --color-saffron : #FF9933;
-  --color-green : #138808;
-  --color-blue : #000080;
+  --color-saffron: #FF671F;
+  --color-white: #FFFFFF;
+  --color-green: #046A38;
 }
