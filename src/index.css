@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --color-saffron: #FF671F;
-  --color-white: #FFFFFF;
-  --color-green: #046A38;
+  --color-saffron: #ff671f;
+  --color-white: #ffffff;
+  --color-green: #046a38;
 }
