@@ -1,10 +1,4 @@
-import styled from 'styled-components';
 import { useEffect, useState } from 'react';
-
-const PixelText = styled.span`
-  font-family: 'Press Start 2P', cursive;
-  font-size: 24px;
-`;
 
 function Navbar() {
   const [stars, setStars] = useState(0);
@@ -27,7 +21,7 @@ function Navbar() {
   return (
     <div className="flex justify-between items-center px-8 bg-[#CFC7E9] shadow-md py-4">
       <div className="text-center">
-        <PixelText className="text-center">Pixels</PixelText>
+        <span className="text-center text-[24px] font-pixel">Pixels</span>
       </div>
       <a href="https://github.com/JaeAeich/Pixels">
         <div className="flex gap-2 items-center">
