@@ -21,7 +21,9 @@ function Navbar() {
   return (
     <div className="flex justify-between items-center px-8 bg-[#CFC7E9] shadow-md py-4">
       <div className="text-center">
-        <span className="text-center text-[24px] font-pixel">Pixels</span>
+        <span className="text-center text-[24px] font-semibold font-['Handjet']">
+          Pixels
+        </span>
       </div>
       <a href="https://github.com/JaeAeich/Pixels">
         <div className="flex gap-2 items-center">
