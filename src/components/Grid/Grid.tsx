@@ -1,13 +1,31 @@
+import { useState } from 'react';
 import grid from '../../data/pixel';
 import GridItem from '../../data/types';
+import PixelModal from '../Modal/PixelModal';
 
 function Grid() {
+  const [open, setOpen] = useState(false);
+  const [data, setData] = useState<GridItem>({
+    color: '',
+    name: '',
+    message: '',
+    pfp: '',
+  });
+
   const openModal = (item: GridItem) => {
-    console.log(item);
+    setData(item);
+    setOpen(!open);
   };
 
   return (
     <div className="min-w-fit grid-container overflow-y-scroll p-2">
+      <PixelModal
+        color={data.color}
+        open={open}
+        name={data.name}
+        pfp={data.pfp}
+        message={data.message}
+      ></PixelModal>
       <div>
         {grid.map((row, rowIndex) => (
           <div className="row flex justify-center" key={rowIndex}>
