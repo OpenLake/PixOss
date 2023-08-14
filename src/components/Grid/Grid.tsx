@@ -6,6 +6,8 @@ import PixelModal from '../Modal/PixelModal';
 function Grid() {
   const [open, setOpen] = useState(false);
   const [data, setData] = useState<GridItem>({
+    row: 0,
+    col: 0,
     color: '',
     name: '',
     message: '',
@@ -25,15 +27,21 @@ function Grid() {
         name={data.name}
         pfp={data.pfp}
         message={data.message}
+        row={data.row}
+        col={data.col}
       ></PixelModal>
       <div>
         <div></div>
         {grid.map((row, rowIndex) => (
           <div className="row flex justify-center " key={rowIndex}>
-            <p className="w-7/12 text-center self-center">{rowIndex}</p>
+            <p className="w-7/12 text-center self-center">{rowIndex + 1}</p>
             {row.map((pixel, ind) => (
               <div className="w-screen">
-                <div>{rowIndex === 0 ? <p>{ind}</p> : null}</div>
+                <div>
+                  {rowIndex === 0 ? (
+                    <p className="text-center">{ind + 1}</p>
+                  ) : null}
+                </div>
                 <div
                   key={Math.floor(Math.random() * 100000)}
                   className={`pixel grow  min-h-[40px] border-2 border-black`}
