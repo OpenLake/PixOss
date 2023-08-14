@@ -32,7 +32,8 @@ function Grid() {
             {row.map((pixel) => (
               <div
                 key={Math.floor(Math.random() * 100000)}
-                className={`pixel min-h-[100px] min-w-[100px] border-2 border-black bg-[${pixel.color}]`}
+                className={`pixel min-h-[100px] min-w-[100px] border-2 border-black`}
+                style={{ backgroundColor: pixel.color }}
                 onClick={() => openModal(pixel)}
               ></div>
             ))}

@@ -1,8 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@400;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@400;700&display=swap');
 
 :root {
   --color-saffron: #ff671f;
