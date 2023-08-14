@@ -18,7 +18,7 @@ function Grid() {
   };
 
   return (
-    <div className="min-w-fit grid-container overflow-y-scroll p-2">
+    <div className="w-screen h-screen  flex-row  object-fit  p-2">
       <PixelModal
         color={data.color}
         open={open}
@@ -27,15 +27,20 @@ function Grid() {
         message={data.message}
       ></PixelModal>
       <div>
+        <div></div>
         {grid.map((row, rowIndex) => (
-          <div className="row flex justify-center" key={rowIndex}>
-            {row.map((pixel) => (
-              <div
-                key={Math.floor(Math.random() * 100000)}
-                className={`pixel min-h-[100px] min-w-[100px] border-2 border-black`}
-                style={{ backgroundColor: pixel.color }}
-                onClick={() => openModal(pixel)}
-              ></div>
+          <div className="row flex justify-center " key={rowIndex}>
+            <p className="w-7/12 text-center self-center">{rowIndex}</p>
+            {row.map((pixel, ind) => (
+              <div className="w-screen">
+                <div>{rowIndex === 0 ? <p>{ind}</p> : null}</div>
+                <div
+                  key={Math.floor(Math.random() * 100000)}
+                  className={`pixel grow  min-h-[40px] border-2 border-black`}
+                  style={{ backgroundColor: pixel.color }}
+                  onClick={() => openModal(pixel)}
+                ></div>
+              </div>
             ))}
           </div>
         ))}

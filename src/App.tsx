@@ -8,7 +8,7 @@ function App() {
       <div className="navbar h-[4rem] w-screen">
         <Navbar />
       </div>
-      <div className="overflow-scroll h-[calc(100vh-8rem)]">
+      <div className="overflow-hidden h-[calc(100vh-8rem)]">
         <Grid />
       </div>
       <div className="footer h-[4rem]">
