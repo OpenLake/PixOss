@@ -37,7 +37,12 @@ function Grid() {
                 <div
                   key={Math.floor(Math.random() * 100000)}
                   className={`pixel grow  min-h-[40px] border-2 border-black`}
-                  style={{ backgroundColor: pixel.color }}
+                  style={{
+                    backgroundColor:
+                      pixel.color === 'saffron'
+                        ? 'var(--color-saffron)'
+                        : pixel.color,
+                  }}
                   onClick={() => openModal(pixel)}
                 ></div>
               </div>
