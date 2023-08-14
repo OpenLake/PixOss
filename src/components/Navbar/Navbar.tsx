@@ -7,7 +7,7 @@ function Navbar() {
       const fetchData = async () => {
         try {
           const response = await fetch(
-            'https://api.github.com/repos/JaeAeich/Chaty/stargazers',
+            'https://api.github.com/repos/OpenLake/pixels/stargazers',
           );
           const data = await response.json();
           setStars(data.length);

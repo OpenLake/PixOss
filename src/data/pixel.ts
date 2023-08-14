@@ -3,7 +3,7 @@ import GridItem from './types';
 const grid: GridItem[][] = [
   [
     {
-      color: 'red',
+      color: 'saffron',
       name: 'Javed Habib',
       message:
         'I wish I knew what I know now, so I could have left when I stayed.',
