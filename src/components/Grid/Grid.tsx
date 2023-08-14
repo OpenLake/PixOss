@@ -7,7 +7,7 @@ function Grid() {
   };
 
   return (
-    <div className="grid-container overflow-y-scroll p-2">
+    <div className="min-w-fit grid-container overflow-y-scroll p-2">
       <div>
         {grid.map((row, rowIndex) => (
           <div className="row flex justify-center" key={rowIndex}>
