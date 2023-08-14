@@ -884,10 +884,10 @@ const grid: GridItem[][] = [
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'green',
+      name: 'Tushar Bansal',
+      message: 'Trust nobody',
+      pfp: 'https://avatars.githubusercontent.com/u/104081946?v=4',
     },
   ],
 ];
