@@ -93,9 +93,9 @@ const grid: GridItem[][] = [
     {
       col: 12,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Parth',
+      message: 'Bharat Mata ki Jai!',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
   ],
