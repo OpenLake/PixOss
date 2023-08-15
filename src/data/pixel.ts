@@ -202,10 +202,10 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Rohit Ashwani',
+      message: 'Vande Mataram !!!',
+      pfp: 'https://avatars.githubusercontent.com/rohitashwani1',
     },
     {
       row: 3,
