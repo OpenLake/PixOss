@@ -1,31 +1,40 @@
-name: Auto Merge PR on File Change
+name: Auto Merge on Specific File Change
 
 on:
   pull_request:
     types:
-      - opened
       - synchronize
 
 jobs:
   auto_merge:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Check out code
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Auto Merge if File Changed
+      - name: Check for changes
+        id: check_changes
         run: |
-          FILE_TO_CHECK='src/data/pixel.ts'
+          # Define the file path you're interested in
+          FILE_PATH="src/data/pixel.ts"
+          
+          # Get the list of changed files in the PR
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
 
-          # Check if the file was modified in the pull request
-          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E $FILE_TO_CHECK; then
-            echo "File changed. Merging PR..."
-            # Use GitHub API to merge the PR
-            curl -X PUT \
-              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/merge"
+          # Check if the file of interest is in the changed files list
+          if [ "$CHANGED_FILES" = "$FILE_PATH" ]; then
+            echo "Only the specific file changed. Merging PR..."
+            echo "::set-output name=merge::true"
           else
-            echo "No changes in the specified file."
+            echo "Other files changed. No action needed."
+            echo "::set-output name=merge::false"
           fi
+
+      - name: Merge PR
+        if: steps.check_changes.outputs.merge == 'true'
+        run: |
+          # Merge the pull request
+          # You'll need to customize this command based on your branch and merge strategy
+          git merge ${{ github.sha }}
+          git push origin HEAD:refs/heads/main
