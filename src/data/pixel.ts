@@ -316,10 +316,10 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 3,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Sanket Dandge',
+      message: 'It all went as planned.',
+      pfp: 'https://static.wikia.nocookie.net/bleach/images/6/68/682Aizen_profile.png/revision/latest?cb=20190617062621&path-prefix=en',
     },
     {
       row: 4,
