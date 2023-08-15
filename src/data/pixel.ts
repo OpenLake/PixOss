@@ -560,10 +560,10 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 6,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'white',
+      name: 'Sunil Kumar',
+      message: 'Balls 😔',
+      pfp: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70FGP6jWznFmSrL5Fi5nhxyTBXNOJSEbnQ6TXxusB&s',
     },
     {
       col: 10,
