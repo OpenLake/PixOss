@@ -5,10 +5,10 @@ const grid: GridItem[][] = [
     {
       col: 1,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
+      color: 'saffron',
+      name: 'Madhur Jain',
+      message: 'Billo Bagge Bilaya da ki Karegi?',
+      pfp: 'https://avatars.githubusercontent.com/u/92226302?v=4',
     },
     {
       col: 2,
