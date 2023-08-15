@@ -798,9 +798,9 @@ const grid: GridItem[][] = [
     {
       col: 2,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Piyush Chandrakar',
+      message: 'Owning this Pixel. Msg: Live your life with Pride.',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
