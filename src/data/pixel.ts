@@ -21,10 +21,10 @@ const grid: GridItem[][] = [
     {
           col: 3,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Satvik Vemuganti',
+      message: 'Here for posterity...',
+      pfp: 'https://commons.wikimedia.org/wiki/Main_Page#/media/File:Indus_Valley_near_Leh.jpg',
 
     },
     {
