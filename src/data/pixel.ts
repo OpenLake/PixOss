@@ -70,9 +70,9 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Ojus Goel',
+      message: 'Be the change you want to see in the world',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
