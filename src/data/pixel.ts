@@ -111,10 +111,10 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 2,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Roshan Jha',
+      message: 'Yes, I have embedded my spot. Msg: Take control of your life. Be a leader.',
+      pfp: 'https://avatars.githubusercontent.com/u/37543857?v=4',
     },
     {
       row: 2,
@@ -560,10 +560,10 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 6,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'white',
+      name: 'Sunil Kumar',
+      message: 'Balls 😔',
+      pfp: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70FGP6jWznFmSrL5Fi5nhxyTBXNOJSEbnQ6TXxusB&s',
     },
     {
       col: 10,
@@ -642,9 +642,9 @@ const grid: GridItem[][] = [
     {
       col: 7,
       row: 7,
-      color: '',
-      name: '',
-      message: '',
+      color: 'white',
+      name: 'jv aditya',
+      message: 'Peace',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
@@ -1074,10 +1074,10 @@ const grid: GridItem[][] = [
     {
       col: 12,
       row: 11,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'Green',
+      name: 'Kunal Singla',
+      message: 'Panni! Panni! Panni! Uncle jiiiiiiii panni pildo jiiii',
+      pfp: 'https://avatars.githubusercontent.com/u/103026936?v=4',
     },
   ],
   [
