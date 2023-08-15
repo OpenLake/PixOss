@@ -24,7 +24,7 @@ const grid: GridItem[][] = [
       color: '',
       name: '',
       message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      pfp: '',
     },
     {
       col: 4,
@@ -102,7 +102,15 @@ const grid: GridItem[][] = [
   [
     {
       row: 2,
-      col: 12,
+      col: 1,
+      color: 'saffron',
+      name: 'Aneesh',
+      message: 'Bagge Bagge Billeyan Da Ki Karengi?',
+      pfp: 'https://avatars.githubusercontent.com/Aneesh02',
+    },
+    {
+      row: 2,
+      col: 2,
       color: '',
       name: '',
       message: '',
@@ -110,7 +118,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 3,
       color: '',
       name: '',
       message: '',
@@ -118,7 +126,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 4,
       color: '',
       name: '',
       message: '',
@@ -126,7 +134,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 5,
       color: '',
       name: '',
       message: '',
@@ -134,7 +142,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 6,
       color: '',
       name: '',
       message: '',
@@ -142,7 +150,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 7,
       color: '',
       name: '',
       message: '',
@@ -150,7 +158,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 8,
       color: '',
       name: '',
       message: '',
@@ -158,7 +166,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 9,
       color: '',
       name: '',
       message: '',
@@ -166,7 +174,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
+      col: 10,
       color: '',
       name: '',
       message: '',
@@ -174,15 +182,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 12,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
-    },
-    {
-      row: 2,
-      col: 12,
+      col: 11,
       color: '',
       name: '',
       message: '',
