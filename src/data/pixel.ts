@@ -37,10 +37,10 @@ const grid: GridItem[][] = [
     {
       col: 5,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Vinayak Kesarwani',
+      message: 'Unity in Diversity',
+      pfp: 'https://avatars.githubusercontent.com/u/106701018?v=4',
     },
     {
       col: 6,
