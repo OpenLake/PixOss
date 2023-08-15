@@ -1,0 +1,31 @@
+name: Auto Merge PR on File Change
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  auto_merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Auto Merge if File Changed
+        run: |
+          FILE_TO_CHECK='src/data/pixel.ts'
+
+          # Check if the file was modified in the pull request
+          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E $FILE_TO_CHECK; then
+            echo "File changed. Merging PR..."
+            # Use GitHub API to merge the PR
+            curl -X PUT \
+              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/merge"
+          else
+            echo "No changes in the specified file."
+          fi
