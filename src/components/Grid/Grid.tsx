@@ -20,7 +20,7 @@ function Grid() {
   };
 
   return (
-    <div className="w-screen h-screen  flex-row  object-fit  p-2">
+    <div className="w-screen flex-row  object-fit  p-2">
       <PixelModal
         color={data.color}
         open={open}
@@ -34,7 +34,9 @@ function Grid() {
         <div></div>
         {grid.map((row, rowIndex) => (
           <div className="row flex justify-center " key={rowIndex}>
-            <p className="w-7/12 text-center self-center">{rowIndex + 1}</p>
+            <div className="mr-6 text-center ml-2 w-1 self-center">
+              {rowIndex + 1}
+            </div>
             {row.map((pixel, ind) => (
               <div className="w-screen">
                 <div>
