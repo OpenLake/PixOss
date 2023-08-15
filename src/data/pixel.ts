@@ -552,9 +552,9 @@ const grid: GridItem[][] = [
     {
       col: 8,
       row: 6,
-      color: '',
-      name: '',
-      message: '',
+      color: 'white',
+      name: 'Soni',
+      message: 'Peace over everything',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
