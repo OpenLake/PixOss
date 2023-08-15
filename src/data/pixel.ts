@@ -340,9 +340,9 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 6,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Suraj Gaikwad',
+      message: 'Be calm and Become',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
