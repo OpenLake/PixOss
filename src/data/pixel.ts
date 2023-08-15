@@ -536,10 +536,10 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 6,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'white',
+      name: 'Aditya Dubey',
+      message: 'Systum',
+      pfp: 'https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg',
     },
     {
       col: 7,
