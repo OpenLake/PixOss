@@ -119,10 +119,10 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 3,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Nishchay Rajput',
+      message: 'You will get, what you deserve',
+      pfp: 'https://avatars.githubusercontent.com/NishchayRajput',
     },
     {
       row: 2,
