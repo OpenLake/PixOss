@@ -5,9 +5,9 @@ const grid: GridItem[][] = [
     {
       col: 1,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Aditya',
+      message: '1947',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
     },
     {
