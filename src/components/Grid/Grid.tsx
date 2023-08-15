@@ -62,7 +62,7 @@ function Grid() {
       </div>
       <div>
         <img
-          src="src/assets/ashokachakr.png"
+          src="https://raw.githubusercontent.com/Aditya062003/ashokchakra/main/ashokachakr.png"
           alt="Centered Image"
           className="absolute lg:h-[32%] lg:w-[11%] h-[32%] w-[40%] l-1/3 lg:top-[36.5%] lg:left-[45.5%] top-[36.5%] left-[35%]"
         />
