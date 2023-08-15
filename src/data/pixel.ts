@@ -324,10 +324,10 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 4,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Shivangi Gaur',
+      message: 'Got tea?',
+      pfp: 'https://avatars.githubusercontent.com/u/133567991?v=4',
     },
     {
       row: 4,
