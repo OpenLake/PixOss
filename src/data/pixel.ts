@@ -111,9 +111,9 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 2,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Roshan Jha',
+      message: 'Yes, I have embedded my spot. Msg: Take control of your life. Be a leader.',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
