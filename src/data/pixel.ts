@@ -14,9 +14,9 @@ const grid: GridItem[][] = [
     {
       col: 2,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Test',
+      message: 'teqiuwobdhbediu diugwiwgdfwgwgwebwuywcv  jhS,MDBCKJBSJCSBBJCCWSBCJWEJOHC  ',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
