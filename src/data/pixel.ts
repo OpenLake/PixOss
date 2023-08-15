@@ -22,9 +22,9 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'test 2',
+      message: 'ksnonSNFnnnjgnojniurhzsighiih',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
