@@ -928,9 +928,9 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 10,
-      color: '',
-      name: '',
-      message: '',
+      color: 'Green',
+      name: 'Shivam',
+      message: 'Ham Hai IIT Bhilai',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
