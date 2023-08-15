@@ -462,9 +462,9 @@ const grid: GridItem[][] = [
     {
       row: 5,
       col: 9,
-      color: '',
-      name: '',
-      message: '',
+      color: 'White',
+      name: 'Aayush Krishnan',
+      message: 'India 77 not out',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
