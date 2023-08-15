@@ -987,9 +987,9 @@ const grid: GridItem[][] = [
     {
       col: 1,
       row: 11,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Siddhi Agarwal',
+      message: 'Keep Striving!!',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
