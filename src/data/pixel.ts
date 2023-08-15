@@ -62,9 +62,9 @@ const grid: GridItem[][] = [
     {
       col: 8,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Kirtiraj Jamnotiya',
+      message: 'Keep growing, keep shining',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
