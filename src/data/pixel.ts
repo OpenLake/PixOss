@@ -5,11 +5,10 @@ const grid: GridItem[][] = [
     {
       col: 1,
       row: 1,
-      color: 'saffron',
-      name: 'Javed Habib',
-      message:
-        'I wish I knew what I know now, so I could have left when I stayed.',
-      pfp: 'https://media.licdn.com/dms/image/D4D03AQFgthDnt_Zamw/profile-displayphoto-shrink_200_200/0/1688625638904?e=1697673600&v=beta&t=-3kwd33P_IeW1Ezt_3TuIiUrCb06RLZNf8d-8Zi5M1w',
+      color: '',
+      name: '',
+      message: '',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
     },
     {
       col: 2,
@@ -402,7 +401,7 @@ const grid: GridItem[][] = [
       color: '',
       name: '',
       message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
     },
     {
       row: 5,
@@ -1165,18 +1164,18 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 11,
-      color: 'green',
-      name: 'Aditya Dubey',
-      message: 'Groot',
-      pfp: 'https://avatars.githubusercontent.com/u/102402625?v=4',
+      color: '',
+      name: '',
+      message: '',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
     },
     {
       row: 12,
       col: 12,
-      color: 'green',
-      name: 'Tushar Bansal',
-      message: 'Trust nobody',
-      pfp: 'https://avatars.githubusercontent.com/u/104081946?v=4',
+      color: '',
+      name: '',
+      message: '',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
     },
   ],
 ];
