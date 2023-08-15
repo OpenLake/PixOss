@@ -790,10 +790,10 @@ const grid: GridItem[][] = [
     {
       col: 1,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'green',
+      name: 'Ravinder Sharma',
+      message: 'chore maglu ke',
+      pfp: 'https://avatars.githubusercontent.com/u/106022307?v=4',
     },
     {
       col: 2,
