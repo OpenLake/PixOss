@@ -15,7 +15,8 @@ const grid: GridItem[][] = [
       row: 1,
       color: 'saffron',
       name: 'Test',
-      message: 'teqiuwobdhbediu diugwiwgdfwgwgwebwuywcv  jhS,MDBCKJBSJCSBBJCCWSBCJWEJOHC  ',
+      message:
+        'teqiuwobdhbediu diugwiwgdfwgwgwebwuywcv  jhS,MDBCKJBSJCSBBJCCWSBCJWEJOHC  ',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
