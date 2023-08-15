@@ -399,8 +399,8 @@ const grid: GridItem[][] = [
     {
       row: 5,
       col: 1,
-      color: '',
-      name: '',
+      color: 'white',
+      name: 'Madhur Jain',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },

@@ -20,7 +20,7 @@ function Grid() {
   };
 
   return (
-    <div className="w-screen flex-row  object-fit  p-2">
+    <div className="w-screen flex-row relative parent-component object-fit  p-2">
       <PixelModal
         color={data.color}
         open={open}
@@ -59,6 +59,13 @@ function Grid() {
             ))}
           </div>
         ))}
+      </div>
+      <div>
+        <img
+          src="src/assets/ashokachakr.png"
+          alt="Centered Image"
+          className="absolute lg:h-1/3 lg:w-1/6 h-1/4 w-1/3 l-1/3 t-1/3 "
+        />
       </div>
     </div>
   );
