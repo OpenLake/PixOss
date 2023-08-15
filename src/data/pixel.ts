@@ -1085,9 +1085,9 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'Green',
+      name: 'Hemanth Kumar Reddy',
+      message: 'Mera Bharat Mahaan !!',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
