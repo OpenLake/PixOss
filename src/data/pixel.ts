@@ -174,7 +174,7 @@ const grid: GridItem[][] = [
     },
     {
       row: 2,
-      col: 20,
+      col: 10,
       color: '',
       name: '',
       message: '',
