@@ -24,7 +24,8 @@ const grid: GridItem[][] = [
       color: '',
       name: '',
       message: '',
-      pfp: '',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+
     },
     {
       col: 4,
