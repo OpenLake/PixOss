@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <>
+    <div className="h-screen overflow-y-hidden">
       <div className="navbar h-[4rem] w-screen">
         <Navbar />
       </div>
@@ -14,7 +14,7 @@ function App() {
       <div className="footer h-[4rem]">
         <Footer />
       </div>
-    </>
+    </div>
   );
 }
 
