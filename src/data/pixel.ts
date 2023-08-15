@@ -1074,10 +1074,10 @@ const grid: GridItem[][] = [
     {
       col: 12,
       row: 11,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'Green',
+      name: 'Kunal Singla',
+      message: 'Panni! Panni! Panni! Uncle jiiiiiiii panni pildo jiiii',
+      pfp: 'https://avatars.githubusercontent.com/u/103026936?v=4',
     },
   ],
   [
