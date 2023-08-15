@@ -29,10 +29,10 @@ const grid: GridItem[][] = [
     {
       col: 4,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Vedant Udan',
+      message: 'Exploring the Power of Contributors: Igniting Progress.',
+      pfp: 'https://avatars.githubusercontent.com/u/112558779?v=4',
     },
     {
       col: 5,
