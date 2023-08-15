@@ -1051,10 +1051,10 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 11,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'green',
+      name: 'Sumit Pathak',
+      message: 'I can resist everything except temptation.',
+      pfp: 'https://avatars.githubusercontent.com/u/114680963?v=4',
     },
     {
       col: 10,
