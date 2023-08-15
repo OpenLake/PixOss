@@ -19,12 +19,13 @@ const grid: GridItem[][] = [
       pfp: 'https://avatars.githubusercontent.com/u/104081946?v=4',
     },
     {
-      col: 3,
+          col: 3,
       row: 1,
       color: '',
       name: '',
       message: '',
-      pfp: '',
+      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+
     },
     {
       col: 4,
