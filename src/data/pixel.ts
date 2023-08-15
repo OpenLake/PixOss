@@ -45,10 +45,10 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Shashank Pant',
+      message: 'Happy Independence Day',
+      pfp: 'https://avatars.githubusercontent.com/u/136895492?v=4',
     },
     {
       col: 7,
