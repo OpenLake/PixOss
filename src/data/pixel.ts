@@ -806,9 +806,9 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Mohit Thakre',
+      message: 'never limit yourself.',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
