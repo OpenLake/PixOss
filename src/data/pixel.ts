@@ -45,9 +45,9 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Ojus Goel',
+      message: 'You must be the change you wish to see in the world.',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
