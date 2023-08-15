@@ -21,10 +21,10 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'saffron',
+      name: 'Aneesh',
+      message: 'Bagge Bagge Billeyan Da Ki Karengi?',
+      pfp: 'https://avatars.githubusercontent.com/Aneesh02',
     },
     {
       col: 4,
