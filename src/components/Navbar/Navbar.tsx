@@ -19,7 +19,7 @@ function Navbar() {
     } catch (error) {}
   }, []);
   return (
-    <div className="flex justify-between items-center px-8 bg-[#CFC7E9] shadow-md py-4">
+    <div className="flex justify-between items-center px-8 bg-cyan-500	 shadow-md py-4">
       <div className="text-center">
         <span className="text-center text-[24px] font-semibold font-['Handjet']">
           Pixels
