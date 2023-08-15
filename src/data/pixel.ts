@@ -961,9 +961,9 @@ const grid: GridItem[][] = [
     {
       col: 10,
       row: 10,
-      color: '',
-      name: '',
-      message: '',
+      color: 'Green',
+      name: 'SRS',
+      message: 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
