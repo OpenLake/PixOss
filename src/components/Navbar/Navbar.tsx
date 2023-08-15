@@ -7,7 +7,7 @@ function Navbar() {
       const fetchData = async () => {
         try {
           const response = await fetch(
-            'https://api.github.com/repos/OpenLake/pixels/stargazers',
+            'https://api.github.com/repos/OpenLake/PixOss/stargazers',
           );
           const data = await response.json();
           setStars(data.length);
@@ -21,11 +21,11 @@ function Navbar() {
   return (
     <div className="flex justify-between items-center px-8 bg-cyan-500	 shadow-md py-4">
       <div className="text-center">
-        <span className="text-center text-[24px] font-semibold font-['Handjet']">
-          Pixels
+        <span className="text-center text-[24px] font-semibold font-VT323">
+          PixOss
         </span>
       </div>
-      <a href="https://github.com/JaeAeich/Pixels">
+      <a href="https://github.com/OpenLake/PixOss">
         <div className="flex gap-2 items-center">
           <div>
             <svg
