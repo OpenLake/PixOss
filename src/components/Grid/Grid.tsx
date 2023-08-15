@@ -64,7 +64,7 @@ function Grid() {
         <img
           src="src/assets/ashokachakr.png"
           alt="Centered Image"
-          className="absolute lg:h-1/3 lg:w-1/6 h-1/4 w-1/3 l-1/3 t-1/3 "
+          className="absolute lg:h-[32%] lg:w-[11%] h-[32%] w-[40%] l-1/3 lg:top-[36.5%] lg:left-[45.5%] top-[36.5%] left-[35%]"
         />
       </div>
     </div>
