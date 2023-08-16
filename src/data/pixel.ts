@@ -1174,10 +1174,10 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 12,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
+      color: 'Green',
+      name: 'Aditya Sankhla',
+      message: 'Adismort: noun, Breakdown: Adi (Aditya) and Smort (A person as sharp as a marble).',
+      pfp: 'https://avatars.githubusercontent.com/u/104080429?v=4',
     },
   ],
 ];
