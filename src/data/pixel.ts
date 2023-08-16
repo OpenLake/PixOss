@@ -128,9 +128,9 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 4,
-      color: '',
-      name: '',
-      message: '',
+      color: 'Saffron',
+      name: 'Anirudh Ranga',
+      message: 'वीर भोग्या वसुंधरा',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
