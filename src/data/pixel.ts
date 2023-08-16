@@ -1109,9 +1109,9 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 4,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Bhavya Jain',
+      message: 'Issi bahane kyun na main bhi dil ka haal zara sawaar loon ',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
