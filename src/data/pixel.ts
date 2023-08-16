@@ -1165,10 +1165,10 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 11,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
+      color: 'Green',
+      name: 'bsv',
+      message: 'Just do it.',
+      pfp: 'https://avatars.githubusercontent.com/kiran-bsv',
     },
     {
       row: 12,
