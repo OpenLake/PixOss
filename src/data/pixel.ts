@@ -1174,10 +1174,10 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 12,
-      color: '',
-      name: '',
+      color: 'Green',
+      name: 'adismort',
       message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
+      pfp: 'https://avatars.githubusercontent.com/u/104080429?v=4',
     },
   ],
 ];
