@@ -1168,7 +1168,8 @@ const grid: GridItem[][] = [
       color: 'Green',
       name: 'bsv',
       message: 'Just do it.',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jp',
+      pfp: 'https://avatars.githubusercontent.com/kiran-bsv',
+
     },
     {
       row: 12,
