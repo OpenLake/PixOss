@@ -807,9 +807,9 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Mohit Thakre',
+      message: 'never limit yourself.',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
@@ -831,10 +831,10 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'green',
+      name: 'Aayush',
+      message: 'Wingardium Leviosa + Mahesh Dalle',
+      pfp: 'https://avatars.githubusercontent.com/u/110016859?v=4',
     },
     {
       col: 7,
