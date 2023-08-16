@@ -1169,6 +1169,7 @@ const grid: GridItem[][] = [
       name: 'bsv',
       message: 'Just do it.',
       pfp: 'https://avatars.githubusercontent.com/kiran-bsv',
+
     },
     {
       row: 12,
