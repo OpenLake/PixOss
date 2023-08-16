@@ -977,9 +977,9 @@ const grid: GridItem[][] = [
     {
       col: 12,
       row: 10,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Atharva Bhatnagar',
+      message: 'https://youtube.com/shorts/o-MImREb9oY?feature=share',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
   ],
