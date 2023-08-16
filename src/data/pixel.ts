@@ -833,7 +833,7 @@ const grid: GridItem[][] = [
       row: 9,
       color: 'green',
       name: 'Aayush',
-      message: 'Wingardium Leviosa',
+      message: 'Wingardium Leviosa + Mahesh Dalle',
       pfp: 'https://avatars.githubusercontent.com/u/110016859?v=4',
     },
     {
