@@ -847,9 +847,9 @@ const grid: GridItem[][] = [
     {
       col: 8,
       row: 9,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Vedansh Sharma',
+      message: '"Things are now in motion that cannot be undone"   -Gandalf',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
