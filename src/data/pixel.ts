@@ -1175,7 +1175,7 @@ const grid: GridItem[][] = [
       row: 12,
       col: 12,
       color: 'Green',
-      name: 'Adismort',
+      name: 'Aditya Sankhla',
       message: 'Adismort: noun, Breakdown: Adi (Aditya) and Smort (A person as sharp as a marble).',
       pfp: 'https://avatars.githubusercontent.com/u/104080429?v=4',
     },
