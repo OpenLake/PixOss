@@ -86,9 +86,9 @@ const grid: GridItem[][] = [
     {
       col: 11,
       row: 1,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Aishika',
+      message: 'Sabse nyaara gulistaan humara hai',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
