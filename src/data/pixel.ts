@@ -234,10 +234,10 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 5,
-      color: '',
-      name: '',
-      message: '',
-      pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
+      color: 'Saffron',
+      name: 'Anand Vardhan',
+      message: 'India\'s gonna rock the worldstage',
+      pfp: 'https://avatars.githubusercontent.com/Nandostream11',
     },
     {
       row: 3,
