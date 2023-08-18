@@ -152,9 +152,9 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 7,
-      color: '',
-      name: '',
-      message: '',
+      color: 'saffron',
+      name: 'Chetan',
+      message: 'तुम जब कहोगे हम तब मिलेंगे बस एक शर्त है , ना घडी तुम पहनोगे ना वक़्त हम पूछेंगे ',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
