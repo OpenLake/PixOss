@@ -1125,9 +1125,9 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 12,
-      color: '',
-      name: '',
-      message: '',
+      color: 'green',
+      name: 'Bhoomi Goyal',
+      message: 'As long as you are green you are growing',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
     },
     {
