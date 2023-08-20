@@ -128,7 +128,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 4,
-      color: 'Saffron',
+      color: 'saffron',
       name: 'Anirudh Ranga',
       message: 'वीर भोग्या वसुंधरा',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -234,7 +234,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 5,
-      color: 'Saffron',
+      color: 'saffron',
       name: 'Anand Vardhan',
       message: 'India\'s gonna rock the worldstage',
       pfp: 'https://avatars.githubusercontent.com/Nandostream11',
