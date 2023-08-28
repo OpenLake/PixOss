@@ -78,7 +78,7 @@ const grid: GridItem[][] = [
     {
       col: 10,
       row: 1,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -136,7 +136,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 5,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -144,7 +144,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 6,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -160,7 +160,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 8,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -176,7 +176,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 10,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -184,7 +184,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 11,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -192,7 +192,7 @@ const grid: GridItem[][] = [
     {
       row: 2,
       col: 12,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -210,7 +210,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 2,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -226,7 +226,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 4,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -242,7 +242,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 6,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -250,7 +250,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 7,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -258,7 +258,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 8,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -266,7 +266,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 9,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -274,7 +274,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 10,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -282,7 +282,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 11,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -290,7 +290,7 @@ const grid: GridItem[][] = [
     {
       row: 3,
       col: 12,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -333,7 +333,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 5,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -349,7 +349,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 7,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -357,7 +357,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 8,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -365,7 +365,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 9,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -373,7 +373,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 10,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -381,7 +381,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 11,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -389,7 +389,7 @@ const grid: GridItem[][] = [
     {
       row: 4,
       col: 12,
-      color: '',
+      color: 'saffron',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -815,7 +815,7 @@ const grid: GridItem[][] = [
     {
       col: 4,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -823,7 +823,7 @@ const grid: GridItem[][] = [
     {
       col: 5,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -839,7 +839,7 @@ const grid: GridItem[][] = [
     {
       col: 7,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -855,7 +855,7 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -863,7 +863,7 @@ const grid: GridItem[][] = [
     {
       col: 10,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -871,7 +871,7 @@ const grid: GridItem[][] = [
     {
       col: 11,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -879,7 +879,7 @@ const grid: GridItem[][] = [
     {
       col: 12,
       row: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -897,7 +897,7 @@ const grid: GridItem[][] = [
     {
       col: 2,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -905,7 +905,7 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -913,7 +913,7 @@ const grid: GridItem[][] = [
     {
       col: 4,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -921,7 +921,7 @@ const grid: GridItem[][] = [
     {
       col: 5,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -937,7 +937,7 @@ const grid: GridItem[][] = [
     {
       col: 7,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -945,7 +945,7 @@ const grid: GridItem[][] = [
     {
       col: 8,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -953,7 +953,7 @@ const grid: GridItem[][] = [
     {
       col: 9,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -969,7 +969,7 @@ const grid: GridItem[][] = [
     {
       col: 11,
       row: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -995,7 +995,7 @@ const grid: GridItem[][] = [
     {
       col: 2,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1003,7 +1003,7 @@ const grid: GridItem[][] = [
     {
       col: 3,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1011,7 +1011,7 @@ const grid: GridItem[][] = [
     {
       col: 4,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1019,7 +1019,7 @@ const grid: GridItem[][] = [
     {
       col: 5,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1027,7 +1027,7 @@ const grid: GridItem[][] = [
     {
       col: 6,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1035,7 +1035,7 @@ const grid: GridItem[][] = [
     {
       col: 7,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1043,7 +1043,7 @@ const grid: GridItem[][] = [
     {
       col: 8,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1059,7 +1059,7 @@ const grid: GridItem[][] = [
     {
       col: 10,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1067,7 +1067,7 @@ const grid: GridItem[][] = [
     {
       col: 11,
       row: 11,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1133,7 +1133,7 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 7,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1141,7 +1141,7 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 8,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1149,7 +1149,7 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 9,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
@@ -1157,7 +1157,7 @@ const grid: GridItem[][] = [
     {
       row: 12,
       col: 10,
-      color: '',
+      color: 'green',
       name: '',
       message: '',
       pfp: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg',
